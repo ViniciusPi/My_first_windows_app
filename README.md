@@ -1,6 +1,6 @@
 # my_first_app
 
-A new Flutter project.
+Making my first codelab with flutter desktop
 
 ## Getting Started
 
